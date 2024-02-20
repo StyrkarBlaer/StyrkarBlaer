@@ -3,7 +3,7 @@
 This is where i hang out sometimes and put my code, <br>
 I graduated from school so i figured i should try to build my professional presence online.
 
-Currently i'm learning everything front end related.
+Currently i'm About JS/React and its many frameworks.
 
 
 <summary>⚡️ The stuff i put here</summary>
